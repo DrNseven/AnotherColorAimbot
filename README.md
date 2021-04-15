@@ -1,1 +1,3 @@
 # AnotherColorAimbot
+
+Credits: geo278 
